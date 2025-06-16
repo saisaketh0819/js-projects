@@ -20,14 +20,18 @@ span {
 
 #grey {
   background: grey;
+  cursor: pointer;
 }
 
 #white {
   background: white;
+  cursor: pointer;
 }
 #blue {
   background: blue;
+  cursor: pointer;
 }
 #yellow {
   background: yellow;
+  cursor: pointer;
 }
